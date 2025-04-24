@@ -48,3 +48,12 @@ User Research: User interviews, surveys, testing
 Wireframing: Low-fidelity, high-fidelity designs
 
 UI Design: Responsive design, mobile-first
+
+MINI PROJECTS:
+
+- 5 landing pages in 5 days
+- Law Website landing page
+- Football Academy landing page
+- Wireframing event ticketing app
+- Wireframing shoe shopping app
+  
