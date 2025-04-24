@@ -39,6 +39,7 @@ Key Features:
 - User-friendly design: Focused on creating an easy-to-navigate, visually appealing interface that enhances the shopping experience.
 
 SKILLS
+
 Design Tools: Figma
 
 Prototyping: Figma
