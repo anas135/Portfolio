@@ -11,6 +11,7 @@ I have a background in Computer Science and a strong interest in user-centered d
 CASE STUDIES
 
 CASE STUDY 1 - ESPN APP REDESIGN:
+
 For this project, I redesigned the ESPN app, focusing on improving user engagement and ease of navigation. I aimed to provide a more streamlined experience, incorporating better access to live scores, highlights, and sports news.
 
 Role: UX/UI Designer
@@ -24,6 +25,7 @@ Key Features:
 - Improved visual hierarchy and readability
 
 CASE STUDY 2 - SNEAKERVAULT:
+
 This project involves creating a sneaker shoe app designed for users to browse and purchase shoes with ease. The app includes features such as product filtering and a streamlined checkout process.
 
 Role: UX/UI Designer
