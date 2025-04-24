@@ -1,6 +1,6 @@
 This repo includes a collection of small UX/UI projects I designed in Figma to practice and build my skills. Each one explores different types of interfaces, from landing pages to app wireframes.
 
-Projects Included:
+PROJECTS INCLUDED:
 
 Law Firm Landing Page
 A clean and professional homepage design for a fictional law firm. Focused on structure, hierarchy, and trust-building visuals.
@@ -19,5 +19,6 @@ A stylish screen design for a sneaker app—focused on browsing products and cle
 
 Card UI Designs
 Two sets of card layouts for showcasing content (e.g. products, profiles, or articles), designed to be simple, reusable, and visually appealing.
+
 
 All designs were made in Figma, and each one helped me improve areas like layout, visual hierarchy, consistency, and user flow.
