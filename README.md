@@ -52,8 +52,9 @@ UI Design: Responsive design, mobile-first
 MINI PROJECTS:
 
 - 5 landing pages in 5 days
-- Law Website landing page
-- Football Academy landing page
+- Law website landing page
+- Football academy landing page
 - Wireframing event ticketing app
 - Wireframing shoe shopping app
+- Card design comparisons
   
